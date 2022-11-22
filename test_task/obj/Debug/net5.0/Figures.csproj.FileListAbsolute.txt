@@ -1,0 +1,12 @@
+D:\projects\test_task\test_task\test_task\bin\Debug\net5.0\Figures.deps.json
+D:\projects\test_task\test_task\test_task\bin\Debug\net5.0\Figures.dll
+D:\projects\test_task\test_task\test_task\bin\Debug\net5.0\ref\Figures.dll
+D:\projects\test_task\test_task\test_task\bin\Debug\net5.0\Figures.pdb
+D:\projects\test_task\test_task\test_task\obj\Debug\net5.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\test_task\test_task\test_task\obj\Debug\net5.0\Figures.AssemblyInfoInputs.cache
+D:\projects\test_task\test_task\test_task\obj\Debug\net5.0\Figures.AssemblyInfo.cs
+D:\projects\test_task\test_task\test_task\obj\Debug\net5.0\Figures.csproj.CoreCompileInputs.cache
+D:\projects\test_task\test_task\test_task\obj\Debug\net5.0\Figures.dll
+D:\projects\test_task\test_task\test_task\obj\Debug\net5.0\ref\Figures.dll
+D:\projects\test_task\test_task\test_task\obj\Debug\net5.0\Figures.pdb
+D:\projects\test_task\test_task\test_task\obj\Debug\net5.0\Figures.csproj.AssemblyReference.cache
